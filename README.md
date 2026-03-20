@@ -4,7 +4,7 @@
 <hr>
 
 <p align="center">
-  Hi, I'm <strong>bjm0813</strong>.<br>
+  Hi, I'm <strong>Jeongmin Byeon</strong>.<br>
   B.S. in Information and Communication Engineering at Yeungnam University.<br>
   Interested in <strong>Embedded AI</strong>, <strong>Edge Computing</strong>, and <strong>Machine Learning</strong>.
 </p>
