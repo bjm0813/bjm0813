@@ -51,7 +51,7 @@
     <td align="center">2025.12.02</td>
     <td>
       2025년 2학기 MIDAS GROUP 최종발표회<br>
-      <sub>🏆 대상 · 영남대학교 SW중심대학사업단</sub>
+      <sub>🏆 대상 · 영남대학교 총장상</sub>
     </td>
     <td align="center">AI Project</td>
   </tr>
