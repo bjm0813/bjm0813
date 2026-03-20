@@ -20,7 +20,7 @@
 |:------:|----------|:--------:|
 | 2025.12.18 ~ 2026.03.01 | Industrial Edge AI Solution Challenge 2026 <br> <sub>🥈 2nd Place · e4ds (후원: DigiKey)</sub> | Embedded AI / Edge Computing |
 | 2025.12.02 | 2025년 2학기 MIDAS GROUP 최종발표회 <br> <sub>🏆 대상 · 영남대학교 SW중심대학사업단</sub> | AI Project |
-| 2025.11.03 ~ 2025.11.14 | 제7회 POSTECH OIBC Challenge — 일사량 추정 경진대회 <br> <sub>🏅 장려상 · POSTECH OIBC · (주)에이치에너지</sub> | 시계열 / 회귀 |
+| 2025.11.03 ~ 2025.11.14 | [제7회 POSTECH OIBC Challenge — 일사량 추정 경진대회](https://www.notion.so/OIBC-2b99cff77976804ca8dfebc66373584e) <br> <sub>🏅 장려상 · POSTECH OIBC · (주)에이치에너지</sub> | 시계열 / 회귀 |
 | 2025.09.27 | 영남대학교 AI 캡스톤 디자인 경진대회 — 농산물 도매가 예측 앱 개발 <br> <sub>🏆 장려상 · 영남대학교 총장상</sub> | Capstone Design |
 | 2025.09.13 ~ 2025.09.14 | 제1회 달빛톤 (AI를 활용한 사회문제 해결) <br> <sub>🏆 우수상 · 경북대학교 소프트웨어교육원장상</sub> | AI for Social Impact |
 | 2025.08.01 ~ 2025.08.25 | 식음업장 메뉴 수요 예측 AI 온라인 해커톤 <br> <sub>🥇 상위 3% · 25 / 817 · 오프라인 본선 진출</sub> | 시계열 / 회귀 |
