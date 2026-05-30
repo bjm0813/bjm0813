@@ -18,6 +18,7 @@
 
 | Period | Contents | Division |
 |:------:|----------|:--------:|
+| 2026.05.15 | The 21th IeMeK Symposium on Embedded Technology (ISET2026) <br> <sub>🏅 장려상 · 대한임베디드공학회 · 영남대학교</sub> | Embedded AI / Edge Computing |
 | 2025.12.18 ~ 2026.03.01 | Industrial Edge AI Solution Challenge 2026 <br> <sub>🥈 2nd Place · e4ds (후원: DigiKey)</sub> | Embedded AI / Edge Computing |
 | 2025.12.02 | 2025년 2학기 MIDAS GROUP 최종발표회 <br> <sub>🏆 대상 · 영남대학교 총장상</sub> | AI Project |
 | 2025.11.03 ~ 2025.11.14 | [제7회 POSTECH OIBC Challenge — 일사량 추정 경진대회](https://www.notion.so/OIBC-2b99cff77976804ca8dfebc66373584e) <br> <sub>🏅 장려상 · POSTECH OIBC · (주)에이치에너지</sub> | 시계열 / 회귀 |
